@@ -1196,7 +1196,7 @@ input[type="email"]:focus {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
   background-color: var(--section-background);
-  background-image: url(/images/stats.jpg);
+  background-image: url(images/stats.jpg);
   background-size: cover;
   position: relative;
 }
