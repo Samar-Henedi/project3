@@ -1052,12 +1052,12 @@ input[type="email"]:focus {
 .pricing .plan:hover::after {
   width: 100%;
 }
-.pricing .plan .tittle {
+.pricing .plan .title {
   padding: 30px 0;
   position: relative;
   z-index: 2;
 }
-.pricing .plan:nth-child(2) .tittle::before {
+.pricing .plan:nth-child(2) .title::before {
   content: "Most Popular";
   position: absolute;
   top: 56px;
@@ -1070,7 +1070,7 @@ input[type="email"]:focus {
   font-weight: bold;
   font-size: 20px;
 }
-.pricing .plan:nth-child(2) .tittle::after {
+.pricing .plan:nth-child(2) .title::after {
   content: "";
   position: absolute;
   top: 112px;
@@ -1079,17 +1079,17 @@ input[type="email"]:focus {
   border-width: 22px;
   border-color: transparent transparent white transparent;
 }
-.pricing .plan .tittle > img {
+.pricing .plan .title > img {
   width: 75px;
   padding: 30px 0;
 }
-.pricing .plan .tittle > h1 {
+.pricing .plan .title > h1 {
   color: var(--main-color);
   font-size: 60px;
   font-weight: bold;
   margin: 0 auto 10px;
 }
-.pricing .plan .tittle > p {
+.pricing .plan .title > p {
   color: #777;
 }
 
@@ -1149,7 +1149,7 @@ input[type="email"]:focus {
     border-right: 1px solid #ddd;
   }
 }
-.vidio .box1 .vid_tittle {
+.vidio .box1 .vid_title {
   display: flex;
   justify-content: space-between;
   align-items: center;
