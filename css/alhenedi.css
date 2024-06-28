@@ -1379,6 +1379,10 @@ footer .social .social-icon i {
   margin-left: 10px;
   padding: 15px;
   margin-bottom: 30px;
+  color: #b9b9b9;
+}
+footer .social .social-icon i:hover {
+  background-color: var(--main-color);
 }
 footer .social p {
   line-height: 1.7;
